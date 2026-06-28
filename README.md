@@ -58,6 +58,17 @@ fundadores, consultores, responsables de operaciones y profesionales de despacho
 corredurías, ecommerce o industria. No necesitas programar para usarlo, pero detrás hay una
 arquitectura seria que puedes adaptar y extender hasta donde quieras.
 
+## 🎬 Un vistazo al configurador
+
+Personaliza el sistema a tu negocio con un **formulario visual** (o por chat), sin tocar código.
+Rellenas las secciones, ves avanzar el progreso y descargas tu configuración lista para la IA:
+
+<div align="center">
+  <img src="assets/configurador-hero.jpg" alt="El configurador visual de Empresa Aumentada por IA: formulario por secciones con barra de progreso, en la paleta de marca" width="720">
+  <br>
+  <sub><a href="assets/empresa-aumentada.jpg">Ver el formulario completo →</a></sub>
+</div>
+
 ## 🚀 Cómo Empezar
 
 1. **Carga el Entorno:** Abre esta carpeta como *Workspace/Proyecto* en tu asistente de IA. El archivo de arranque (`CLAUDE.md` / `GEMINI.md` / `AGENTS.md`) hace que el sistema se cargue solo.
