@@ -12,6 +12,13 @@ releases/*
 # --- Archivos temporales de previsualización de imágenes ---
 assets/_*.png
 
+# --- Herramientas/documentos personales del autor (no para el repo público) ---
+# (El lanzador de publicación lleva tu URL e identidad; la guía de publicación
+#  incluye tu borrador de LinkedIn. Se quedan en local, fuera del repositorio.)
+/Publicar en GitHub (Mac).command
+/Publicar en GitHub (Windows).bat
+documentacion/GUIA_PUBLICAR_EN_GITHUB.md
+
 # --- Configuración real del negocio (datos personales del usuario) ---
 # Se versionan solo las versiones .example; el archivo real queda local.
 configurador/config.json

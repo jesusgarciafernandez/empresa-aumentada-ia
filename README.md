@@ -24,9 +24,6 @@ agnóstico: el mismo sistema sobre **Claude, Gemini o Codex**.
   <img src="assets/banner.png" alt="Empresa Aumentada por IA — Un marco estructurado para la IA de tu negocio" width="100%">
 </div>
 
-> 📸 *Siguiente nivel: añade aquí un GIF corto de un chat resolviendo un caso real (con la fuente
-> citada y un "no consta"). Es lo que más convierte visitantes en usuarios.*
-
 ## 💡 El problema
 
 La mayoría usa la IA a ciegas: pegando contexto en un chat, sin método, con respuestas que a veces se
@@ -71,10 +68,6 @@ arquitectura seria que puedes adaptar y extender hasta donde quieras.
 4. **Prueba las Demos:** Copia los prompts de `demo/prompts_demo.md` en el chat para ver cómo funciona.
 5. **Sube tu Información:** En `conocimiento/`, lee el `_LEEME.md` de cada subcarpeta. Cuando subas algo, pídele a la IA *"crea su ficha en el índice documental"*.
 
-> ℹ️ Tu configuración real (`00_CONFIGURACION_NEGOCIO.md` y `configurador/config.json`) queda **fuera
-> del repositorio** por privacidad. Usa `CONFIGURACION_NEGOCIO.example.md` y `config.example.json`
-> como punto de partida.
-
 ## 📂 Estructura del Entorno
 
 - **Archivos de arranque** (`CLAUDE.md`, `GEMINI.md`, `AGENTS.md`): cargan el sistema automáticamente según tu herramienta. No tienes que tocarlos.
@@ -118,9 +111,9 @@ Publicado bajo **[CC BY-NC-SA 4.0](LICENSE)**: uso libre **no comercial** citand
 <details>
 <summary>🇬🇧 <strong>English summary</strong></summary>
 
-**Empresa Aumentada por IA** ("AI-Augmented Business") is a no-code knowledge-management system that
-turns your business documentation into a natural-language assistant, powered by Claude, Gemini or
-Codex. It is **multi-sector**: a clinic, a law firm, an online shop or an insurance brokerage adapt
+**Empresa Aumentada por IA** ("AI-Augmented Business") is a structured framework that puts AI to work
+on your business's own knowledge — agents, skills, workflows and sector packs — powered by Claude,
+Gemini or Codex. It is **multi-sector**: a clinic, a law firm, an online shop or an insurance brokerage adapt
 it through their own configuration, their own documents, and optional **sector packs** (`packs/`).
 The AI always grounds answers in *your* documentation, cites sources, never makes things up, and
 never replaces human judgment. Content is in Spanish. Licensed under CC BY-NC-SA 4.0 — free for
