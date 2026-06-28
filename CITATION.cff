@@ -1,0 +1,26 @@
+cff-version: 1.2.0
+message: "Si usas este proyecto, por favor cítalo como se indica a continuación."
+title: "Empresa Aumentada por IA"
+abstract: >-
+  Sistema de gestión del conocimiento con IA para cualquier negocio o sector, pensado para
+  usarse mediante chats de IA (Claude, Gemini, Codex) sin conocimientos técnicos. Multisectorial:
+  se adapta mediante configuración, documentación propia y packs sectoriales opcionales.
+type: software
+authors:
+  - family-names: "García Fernández"
+    given-names: "Jesús"
+    website: "https://jesusgarciafernandez.com"
+    email: "contacto@jesusgarciafernandez.com"
+version: "3.1"
+date-released: "2026-06-26"
+license: "CC-BY-NC-SA-4.0"
+url: "https://jesusgarciafernandez.com"
+keywords:
+  - "inteligencia artificial"
+  - "gestión del conocimiento"
+  - "pymes"
+  - "no-code"
+  - "claude"
+  - "gemini"
+  - "asistente"
+  - "multisectorial"

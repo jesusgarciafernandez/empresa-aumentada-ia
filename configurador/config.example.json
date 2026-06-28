@@ -1,0 +1,56 @@
+{
+  "identidad": {
+    "nombre_comercial": "",
+    "razon_social": "",
+    "que_hace": "",
+    "web": "",
+    "telefono": "",
+    "email": "",
+    "localidad": ""
+  },
+  "sector": {
+    "sector": "",
+    "subsector": "",
+    "usa_pack": ""
+  },
+  "ofrece": [],
+  "destinatarios": {
+    "tipo": "",
+    "perfil": ""
+  },
+  "equipo": {
+    "personas": "",
+    "firma": "Un cordial saludo,\n[Nombre del gestor]\n[Cargo] · [Nombre del negocio]\nTel: [teléfono] · [email]",
+    "tratamiento": ""
+  },
+  "tono": {
+    "tono": "",
+    "idiomas": "",
+    "siempre": "",
+    "nunca": ""
+  },
+  "herramientas": {
+    "sistema": "",
+    "registro": "",
+    "plazos": ""
+  },
+  "proveedores": [],
+  "comercial": {
+    "descuentos": "",
+    "promover": "",
+    "venta_cruzada": ""
+  },
+  "cumplimiento": {
+    "jurisdiccion": "",
+    "normativa": "",
+    "responsable_datos": "",
+    "canal_seguro": "",
+    "ia_nube": ""
+  },
+  "notas": "",
+  "_meta": {
+    "generado_por": "Jesús García Fernández",
+    "web": "https://jesusgarciafernandez.com",
+    "fecha": ""
+  }
+}

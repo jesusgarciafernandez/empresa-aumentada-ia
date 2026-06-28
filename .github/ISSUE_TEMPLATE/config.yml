@@ -1,0 +1,8 @@
+blank_issues_enabled: true
+contact_links:
+  - name: 💬 Pregunta o duda de uso
+    url: https://jesusgarciafernandez.com
+    about: Para dudas generales sobre cómo usar el sistema, contacta aquí.
+  - name: 🤝 Licencia comercial
+    url: mailto:contacto@jesusgarciafernandez.com
+    about: ¿Quieres usar el proyecto con fines comerciales? Escríbeme.
