@@ -9,6 +9,9 @@ Formacion/
 releases/*
 !releases/README.md
 
+# --- Archivos temporales de previsualización de imágenes ---
+assets/_*.png
+
 # --- Configuración real del negocio (datos personales del usuario) ---
 # Se versionan solo las versiones .example; el archivo real queda local.
 configurador/config.json

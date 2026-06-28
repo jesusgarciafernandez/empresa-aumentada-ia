@@ -183,8 +183,8 @@ ai  artificial-intelligence  ai-agents  agentic-ai  llm  claude  gemini  prompt-
 - Title: `v3.1 — La IA de tu negocio, con método`
 - Notas (ejemplo):
 ```
-Primera versión pública de Empresa Aumentada por IA: el sistema operativo de conocimiento
-para llevar la IA a tu negocio con estructura, trazabilidad y control humano.
+Primera versión pública de Empresa Aumentada por IA: un marco estructurado para llevar
+la IA a tu negocio con estructura, trazabilidad y control humano.
 
 Qué incluye:
 - Arquitectura de agentes (Director + 8 especialistas), skills y workflows reutilizables.
@@ -206,7 +206,7 @@ inventa los datos. Funciona para jugar, no para operar un negocio.
 
 Así que he construido lo contrario, y lo libero hoy en abierto.
 
-"Empresa Aumentada por IA" es un sistema operativo de conocimiento para tu negocio:
+"Empresa Aumentada por IA" es un marco estructurado para llevar la IA a tu negocio:
 → Responde SIEMPRE anclado en tu propia documentación, y cita la fuente.
 → Si algo no consta, lo dice. No inventa.
 → La decisión final siempre es humana.
@@ -223,7 +223,7 @@ Gratuito y adaptable. Te dejo el enlace 👇 ¿qué le añadirías?
 
 **Titular alternativo para Hacker News / X (en inglés):**
 ```
-Show: A structured “knowledge OS” that grounds business AI in your own docs (Claude/Gemini/Codex)
+Show: A structured framework that grounds business AI in your own docs (Claude/Gemini/Codex)
 ```
 
 > Licencia del proyecto: CC BY-NC-SA 4.0 (uso libre no comercial citando la fuente; para uso comercial,

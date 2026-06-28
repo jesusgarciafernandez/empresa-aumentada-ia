@@ -2,7 +2,7 @@
 
 # Empresa Aumentada por IA 🚀
 
-**El sistema operativo de conocimiento para llevar la IA a tu negocio con método — no a base de copiar y pegar en un chat.**
+**Un marco estructurado para llevar la IA a tu negocio con método — no a base de copiar y pegar en un chat.**
 
 Agentes especializados, *skills* y flujos de trabajo que responden **anclados en la documentación real
 de tu negocio**, citando la fuente y dejando la decisión final en manos humanas. Multisectorial y
@@ -20,8 +20,12 @@ agnóstico: el mismo sistema sobre **Claude, Gemini o Codex**.
 
 ---
 
-> 📸 *Sugerencia: añade aquí un GIF del configurador en marcha o una captura de un chat
-> resolviendo un caso real. Es lo que más convierte visitantes en usuarios.*
+<div align="center">
+  <img src="assets/banner.png" alt="Empresa Aumentada por IA — Un marco estructurado para la IA de tu negocio" width="100%">
+</div>
+
+> 📸 *Siguiente nivel: añade aquí un GIF corto de un chat resolviendo un caso real (con la fuente
+> citada y un "no consta"). Es lo que más convierte visitantes en usuarios.*
 
 ## 💡 El problema
 
